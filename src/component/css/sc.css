@@ -1,0 +1,111 @@
+.wrappermaths {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/maths.jpg);
+  }
+  .wrapperlettre {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/lettre.jpg);
+  }
+  .wrappersc {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/science.jpg);
+  }
+  .wrapperges{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/gest.jpg);
+  }
+  .wrapperinfo {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/info.jpg);
+  }
+  
+  .wrappertech {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/tech.jpg);
+  }
+  
+  .wrappersport {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/sport.jpg);
+  }
+  .wrapperacc {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../img/eleve.jpg);
+  }
+  .form-wrapper800 {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 50px #555;
+    background-color: #ffffff;
+    opacity: 0.8;
+  }
+
+  
+  .form-wrapper600 {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 50px #555;
+    background-color: #ffffff;
+    opacity: 0.8;
+  }
+  
+  .form-wrapper1000 {
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 50px #555;
+    background-color: #ffffff;
+    opacity: 0.8;
+  }
+  .req{
+    background-color: #000000;
+    opacity: 0.8;
+  }
